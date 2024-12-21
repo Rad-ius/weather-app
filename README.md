@@ -1,6 +1,6 @@
 # OpenWeather and Unspalsh weather-app
 
-This Weather App provides users with real-time weather data for their current location or any city they search for. It integrates with the OpenWeather API for weather data and the Unsplash API for background images, delivering a visually engaging and functional user experience.
+This Weather App provides users with real-time weather data for their current location or any city they search for. It integrates with the OpenWeather API for weather data and the Unsplash API for background images, delivering a visually engaging and functional user experience. You can preview the app here : https://unsplash-wallpaper.netlify.app/
 
 # Features
 
